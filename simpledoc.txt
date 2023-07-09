@@ -1,2 +1,4 @@
 hi this is file
 assignment basically
+
+learning git commands 
